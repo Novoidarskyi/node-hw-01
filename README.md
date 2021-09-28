@@ -9,4 +9,6 @@
 
 Шаг 5
 Получаем и выводим весь список контактов в виде таблицы (console.table) - https://prnt.sc/1trjpki
-Получаем контакт по id -
+Получаем контакт по id -https://prnt.sc/1tzy0k7
+Добавялем контакт - https://prnt.sc/1tzykoi
+Удаляем контакт - https://prnt.sc/1tzys6v

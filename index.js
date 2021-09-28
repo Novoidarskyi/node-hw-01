@@ -28,7 +28,7 @@ const workWithContacts = async (type = "listContacts", id, data) => {
 //   .then((data) => console.log(data))
 //   .catch((error) => console.log(error));
 // workWithContacts("getContactById", 5)
-//     .then((data) => console.log(data));
+//   .then((data) => console.log(data))
 //   .catch((error) => console.log(error));
 // workWithContacts("addContact", "", newContact)
 //   .then((data) => console.log(data))
